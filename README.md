@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VenAateswarlu
+- 👋 Hi, I’m @Venkateswarlu
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...ece
 - 💞️ I’m looking to collaborate on ... coding 
